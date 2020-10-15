@@ -20,7 +20,6 @@ class gui(QMainWindow):
         # TITULO DE LA VENTANA
         self.setWindowTitle('CSGO CASES MANAGER')
 
-
         # BOTONES 
         self.actualizarPrecioDolar.clicked.connect(self.actualizarPrecioDolarFunct)
         self.actualizarPrecioCajas.clicked.connect(self.actualizarPrecioCajasFunct)
