@@ -1,0 +1,4 @@
+TinyDB==3.15
+PyQt5
+PyQt5.QtCore
+PyQt5.QtWidgets
