@@ -1,7 +1,7 @@
 <h1 align="center">CSGO CASES MANAGER</h1>
-
-<img align="center" src=".github/using.png"></img>
-
+<p align="center">
+<img src=".github/using.png"></img>
+</p>
 ## Starting 🚀
 
 ### How it works:
